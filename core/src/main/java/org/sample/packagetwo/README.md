@@ -1,5 +1,5 @@
 ---
 layout: document
-title:  "Package 2 Documentation!"
+title:  "org.sample.packagetwo Documentation!"
 ---
-This is a sample documentation for package 2.
+This is a sample documentation for package org.sample.packagetwo.
