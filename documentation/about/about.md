@@ -9,4 +9,5 @@ This project provides following features
     <li>Feature 3</li>
     <li>Feature 4</li>
     <li>Feature 5</li>
+    <li>Feature 6</li>
 </ul>
