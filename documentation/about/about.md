@@ -6,4 +6,5 @@ This project provides following features
 <ul class="posts">
     <li>Feature 1</li>
     <li>Feature 2</li>
+    <li>Feature 3</li>
 </ul>
