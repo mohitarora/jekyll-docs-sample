@@ -1,6 +1,6 @@
 ---
 layout: document
-title:  "About Jekyll Docs Sample Project"
+title:  "About Project"
 ---
 This project provides following features
 <ul class="posts">
