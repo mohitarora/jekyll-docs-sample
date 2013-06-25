@@ -2,11 +2,10 @@
 layout: document
 title:  "About Project"
 ---
-<ul class="posts">
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-    <li>Feature 3</li>
-    <li>Feature 4</li>
-    <li>Feature 5</li>
-</ul>
+
+    - Feature 1
+    - Feature 2
+    - Feature 3
+    - Feature 4
+    - Feature 5
 [Contact us &rarr;](contact.html)
