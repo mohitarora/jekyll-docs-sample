@@ -2,7 +2,6 @@
 layout: document
 title:  "About Project"
 ---
-This project provides following features
 <ul class="posts">
     <li>Feature 1</li>
     <li>Feature 2</li>
@@ -10,3 +9,4 @@ This project provides following features
     <li>Feature 4</li>
     <li>Feature 5</li>
 </ul>
+[Contact us &rarr;](contact.html)
